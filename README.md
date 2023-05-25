@@ -8,12 +8,17 @@ This repository contains solutions to the 2 different tasks that must be perform
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-![image](https://user-images.githubusercontent.com/89634505/201470985-159e17d2-605d-46c1-a9f1-8d0cdd147245.png)
+![image](task1.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # Task 2  
 - creating a classification model to predict customer buying behaviour
 - preparing a powerpoint representation to highlight our insights and analysis  
+
+Following insights were uncovered as they are summed up in the one slide presentation.  
+
+![image](task2.png)  
+
 **Program link**: [Forage](https://www.theforage.com/virtual-internships/NjynCWzGSaWXQCxSX?ref=Lgr7NXkrY8gnyBTtu)  
 **Completion Certificate link**: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Lgr7NXkrY8gnyBTtu_1684964743393_completion_certificate.pdf)
